@@ -1,5 +1,5 @@
 ---
-title: "first-post"
+title: "First Post!"
 date: 2024-08-31
 ---
 
